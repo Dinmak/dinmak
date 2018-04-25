@@ -1,0 +1,2 @@
+# dinmak
+proyecto de alarmas
